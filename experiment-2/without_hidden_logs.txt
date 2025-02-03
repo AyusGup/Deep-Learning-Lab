@@ -1,0 +1,11 @@
+9.6s 2 Epoch 0, Training Loss: 0.3429
+9.6s 3 Epoch 100, Training Loss: 0.0592
+9.6s 4 Epoch 200, Training Loss: 0.0402
+9.6s 5 Epoch 300, Training Loss: 0.0325
+9.6s 6 Epoch 400, Training Loss: 0.0281
+9.6s 7 Epoch 500, Training Loss: 0.0252
+9.6s 8 Epoch 600, Training Loss: 0.0231
+9.6s 9 Epoch 700, Training Loss: 0.0216
+9.6s 10 Epoch 800, Training Loss: 0.0203
+9.6s 11 Epoch 900, Training Loss: 0.0193
+9.6s 12 Epoch 999, Training Loss: 0.0185
