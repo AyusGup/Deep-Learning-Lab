@@ -72,4 +72,4 @@ Implemented *CNNs* for classifying images from the *Cats vs. Dogs* and *CIFAR-10
 ## Future Improvements
 - Experimenting with *Transfer Learning* for small datasets.
 - Fine-tuning hyperparameters for better generalization.
-"""
+
